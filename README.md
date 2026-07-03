@@ -49,6 +49,6 @@ Netflix Movies and TV Shows Dataset (Kaggle)
 
 ---
 
-## 👩‍💻 Author
+## 👩‍💻Pushpa BK
 
 **Anu**
